@@ -12,8 +12,13 @@ The test process was carried out with the assertEquals method in the Assertions 
 Output :
 
 @BeforeAll
+
 @BeforeEach
+
 @AfterEach
+
 @BeforeEach
+
 @AfterEach
+
 @AfterAll
