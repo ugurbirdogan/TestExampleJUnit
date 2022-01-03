@@ -1,5 +1,6 @@
 # TestExampleJUnit
-FirstExampleJUnit
+
+First JUnit test is a simple project that I use. 
 
 The test process was carried out with the assertEquals method in the Assertions class, where the method was specified as a test with the @Test statement.
 
